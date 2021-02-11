@@ -1,1 +1,8 @@
-hi, trying to write the file and creating new file as this file     does not exist so lets see what happen let me add some lines to see whether it get added to my created    file also
+Our program will provide you with significant career growth by making you an
+exceptional Data Science professional. The program builds expertise in real-world
+statistical & mathematical concepts, predictive modeling and machine
+learning techniques using data and in-depth understanding
+of the latest Data Science tools.
+
+so this myfile of type text and i am trying to link this file from read and write only file 
+
