@@ -5,3 +5,6 @@ PYTHON PROGRAMS
 4.function :- generator, yield, lambda
 5.conditional statement
 6.loops
+7.file handling 
+8.date and time
+9.exception handling
