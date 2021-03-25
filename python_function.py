@@ -1,5 +1,5 @@
 def func1():
-    print('i am inside the function')
+    print('i am inside the function1')
 def func2(num):
     if(num>0):
         print(f'{num} is greater than zero')
