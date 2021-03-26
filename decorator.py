@@ -8,6 +8,14 @@ def fun(func): #reference of f function will come to func variable
 def f(a,b=10,c='shrey'):
     print(a,b,c)
 f('hello')
+
+
+@fun
+def f1(x,y):
+    return x+y
+print(f1(map(input('enter the value: ').split()))
+
+
 #x=fun(f) #this line work as the decorator #calling function fun and passing the reference of f function    
 #x() #calling function 
 #instead of doing this we can use the way how to actually declare the decorator
