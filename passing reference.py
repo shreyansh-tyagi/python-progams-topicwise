@@ -1,3 +1,5 @@
 def fun1():
     print('called function')
-fun1()    
+def fun2(f):
+    f() 
+fun2(fun1)    
