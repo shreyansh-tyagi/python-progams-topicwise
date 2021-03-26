@@ -5,8 +5,8 @@ def fun(func): #reference of f function will come to func variable
         print('ended') #control come back to this statement and start executing the from here
     return wrapper   #returning the wrapper function and calling the wrapper function 
 @fun #decorator
-def f(a):
-    print(a)
+def f(a,b=10,c='shrey'):
+    print(a,b,c)
 f('hello')
 #x=fun(f) #this line work as the decorator #calling function fun and passing the reference of f function    
 #x() #calling function 
