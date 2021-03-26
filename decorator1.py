@@ -16,7 +16,8 @@ def f2(a,b):
     if(a+b)%2==0:
         print(f'{a}+{b} is {a+b} even')
     else:
-        print(f'{a}+{b} is odd')    
-f2(a,b)    
+        print(f'{a}+{b} is {a+b} odd')    
+f2(a,b)   # x=f1(f)
+          # x(a,b)
     
     
