@@ -5,6 +5,7 @@ def f1(func):
         print('ended')
         return a
     return wrapper
+
 @f1
 def f(a,b):
     print(a+b)
