@@ -4,4 +4,4 @@ print('my email address is shreytyagi3221','gmail.com',sep='@',end='\n')
 print('my nickname is sunny tyagi',sep='',end='\n')
 print('i am studying from','geeks',sep=' ',end='')
 print('forgeeks',sep='#',end='\n')
-print
+print('dob','02','09','1999',sep='-',end='\n')
