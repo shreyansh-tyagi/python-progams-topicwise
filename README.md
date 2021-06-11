@@ -91,6 +91,19 @@ print('trying to convert from pythonista to pythoneer')
      * *Pass statement*
      * *Input function*
      * *End and seprate parameter in print function*
+
+5. *Python functions:-*
+     * *User defined function*
+         * *Pass by value*
+         * *Pass by references*
+     * *Id function*
+     * *Defalut argument*
+     * *Keyword argument*
+     * *Variable length argument*
+         * **args(Non keyword argument)*
+         * ***Kwargs(Keyword argument)*
+         
+              
      
                     
                
