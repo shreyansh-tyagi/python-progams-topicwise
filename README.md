@@ -217,7 +217,21 @@ print('trying to convert from pythonista to pythoneer')
           * *tee(iterable,count)*
           * *zip_longest(iterable1,iterable2,fillval)*      
       
-      
+18. *Python statistics:-*
+      * *mean:-*
+          * *fmean*
+          * *geometric mean*
+          * *harmonic mean*
+      * *median:-*
+          * *median_low()*
+          * *median_high()*
+          * *medain_grouped()*
+      * *mode:-*
+          * *multimode*
+      * *quartiles()*
+      * *pstdev()*
+      * *stdev()*
+      * **
            
               
               
