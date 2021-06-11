@@ -72,12 +72,13 @@ print('trying to convert from pythonista to pythoneer')
                * *List pop*
                * *List reverse*
                * *List sort and sorted*
+               * *List clear*
+               
            * *Sets and its operation:-*
                * *Creating sets*
                * *Union sets*
                * *Intersection sets*
-               * *Differences*
-               
+               * *Differences* 
               
            * *Dictoinaries and its operation:-*
                * *Empty dictionary*
@@ -122,6 +123,7 @@ print('trying to convert from pythonista to pythoneer')
      * *Global and local variable in python function:-*
          * *Global keywords*           
      * *ord function*
+     * **
          
 9. *Python generator:-*
      * *Yield in generator*
