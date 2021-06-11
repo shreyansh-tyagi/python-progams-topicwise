@@ -9,11 +9,17 @@ print('trying to convert from pythonista to pythoneer')
 
 ### _Topics:-_
 
-1. *Python Varibales:-*
+1. *Python identation*
+
+2. *Python comments*
+
+3. *Python print statements*
+
+4. *Python Varibales:-*
       * *Assigning value*
       * *Multiple assignment value*
       
-2. *Python tokens:-*
+5. *Python tokens:-*
       * *Keywords*
       * *Identifiers*
       * *Literals:-*
@@ -30,13 +36,14 @@ print('trying to convert from pythonista to pythoneer')
            * *Identity operator*
            * *Membership operator*
       
-3. *Python datatypes:-*
+6. *Python datatypes:-*
       * *Immutables datatypes:-*
            * *Number and its operation:-*
                * *Int*
                * *Long*
                * *Float*
                * *Complex*
+               
            * *Strings and its operation:-*
                * *Find()*
                * *Replace()*
@@ -61,6 +68,10 @@ print('trying to convert from pythonista to pythoneer')
                * *Append*
                * *Extend*
                * *Insert*
+               * *List count*
+               * *List pop*
+               * *List reverse*
+               * *List sort and sorted*
            * *Sets and its operation:-*
                * *Creating sets*
                * *Union sets*
@@ -78,7 +89,7 @@ print('trying to convert from pythonista to pythoneer')
                * *key*
                * *Value*
 
-4. *Python flow control:-*
+7. *Python flow control:-*
      * *If-else*
      * *Nested if-else*
      * *For loop*
@@ -92,7 +103,7 @@ print('trying to convert from pythonista to pythoneer')
      * *Input function*
      * *End and seprate parameter in print function*
 
-5. *Python functions:-*
+8. *Python functions:-*
      * *User defined function:-*
          * *Pass by value*
          * *Pass by references*
@@ -108,13 +119,16 @@ print('trying to convert from pythonista to pythoneer')
      * *Swapcase function*
      * *length function*
      * *Pop function*       
-     * *Global and local variable in python function*
-           
+     * *Global and local variable in python function:-*
+         * *Global keywords*           
+     * *ord function*
          
-6. *Python generator:-*
+9. *Python generator:-*
      * *Yield in generator*
      * *Generator object*
      * *Generator function*
+
+10. **      
      
               
               
