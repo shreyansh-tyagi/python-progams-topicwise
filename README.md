@@ -17,28 +17,28 @@ print('trying to convert from pythonista to pythoneer')
       * *Keywords*
       * *Identifiers*
       * *Literals*
-           * *-String literals*
-           * *-Numeric literals*
-           * *-Boolean literals*
-           * *-Special literals*
+           * *String literals*
+           * *Numeric literals*
+           * *Boolean literals*
+           * *Special literals*
       * *Operators*
-           * *-Assignment operator*     
-           * *-Arithmetic operator*
-           * *-Comparision operator*
-           * *-Logical operator*
-           * *-Bitwise operator*
-           * *-Identity operator*
-           * *-Membership operator*
+           * *Assignment operator*     
+           * *Arithmetic operator*
+           * *Comparision operator*
+           * *Logical operator*
+           * *Bitwise operator*
+           * *Identity operator*
+           * *Membership operator*
       
 3. *Python datatypes*
       * *Immutables datatypes*
-            * *Number*
-            * *Strings*
-            * *Tuples*        
+           * *Number*
+           * *Strings*
+           * *Tuples*        
       * *Mutable datatypes*  
-            * *Lists*
-            * *Sets*
-            * *Dictoinaries*         
+           * *Lists*
+           * *Sets*
+           * *Dictoinaries*         
            
 
 
