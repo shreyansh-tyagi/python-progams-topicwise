@@ -79,10 +79,15 @@ print('trying to convert from pythonista to pythoneer')
                * *Union sets*
                * *Intersection sets*
                * *Differences* 
+               * *Symmetric difference*
+               * *isdisjoint*
+               * *issubset*
+               * *issuperset*
                * *Discards*
                * *Remove*
                * *Clear*
                * *Add*
+               * *Pop*
                * *Length*
                
               
