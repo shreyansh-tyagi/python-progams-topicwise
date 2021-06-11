@@ -5,12 +5,14 @@
 ### _Syntax:-_
 ```python
 print('trying to convert from pythonista to pythoneer')
+```
 
 ### _Topics:-_
 
 1. *Python Varibales*
       * Assigning value
-      * Multiple assi
+      * Multiple assignment value
+      
 2. **
 
 
