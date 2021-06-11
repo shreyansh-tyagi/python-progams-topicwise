@@ -29,6 +29,12 @@ print('trying to convert from pythonista to pythoneer')
            * *-Bitwise operator*
            * *-Identity operator*
            * *-Membership operator*
+      
+3. *Python datatypes*
+      * *Immutables datatypes*
+            * *Number*
+            * *Strings*
+      * *Mutable datatypes*            
            
 
 
