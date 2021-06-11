@@ -93,16 +93,29 @@ print('trying to convert from pythonista to pythoneer')
      * *End and seprate parameter in print function*
 
 5. *Python functions:-*
-     * *User defined function*
+     * *User defined function:-*
          * *Pass by value*
          * *Pass by references*
      * *Id function*
      * *Defalut argument*
      * *Keyword argument*
-     * *Variable length argument*
+     * *Variable length argument:-*
          * **args(Non keyword argument)*
          * ***Kwargs(Keyword argument)*
+     * *Lambda function:-*
+         * *Map function*
+         * *Filter function*
+     * *Swapcase function*
+     * *length function*
+     * *Pop function*       
+           
          
+6. *Python generator:-*
+     * *Yield in generator*
+     * *Generator object*
+     * *Generator function*
+     
+              
               
      
                     
