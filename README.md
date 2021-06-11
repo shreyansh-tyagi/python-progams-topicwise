@@ -62,8 +62,17 @@ print('trying to convert from pythonista to pythoneer')
                * *Extend*
                * *Insert*
            * *Sets and its operation:-*
+               * **
               
-           * *Dictoinaries*         
+           * *Dictoinaries and its operation:-*
+               * *Empty dictionary*
+               * *Integer key*
+               * *Mixed key*
+               * *Paring*
+               * *Accessing dictionary*
+               * *Length*          
+               * *key*
+               * *Value*
            
 
 
