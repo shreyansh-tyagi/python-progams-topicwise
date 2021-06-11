@@ -10,11 +10,8 @@ print('trying to convert from pythonista to pythoneer')
 ### _Topics:-_
 
 1. *Python identation*
-
 2. *Python comments*
-
 3. *Python print statements*
-
 4. *Python Varibales:-*
       * *Assigning value*
       * *Multiple assignment value*
@@ -193,7 +190,15 @@ print('trying to convert from pythonista to pythoneer')
 14. *first claas function in python:-*
       * *function are objects*
       * *function can be passed as argument to other function*
-      * *function can return another function*      
+      * *function can return another function*     
+
+15. *Python closures*
+16. *Python decorators*
+17. *Python itertools:-*
+      * *Infinite itertools:-*
+           * *count(start,step)*
+           * *cycle(itertools)*
+           * *repeat(val,name)*       
       
       
            
