@@ -133,6 +133,7 @@ print('trying to convert from pythonista to pythoneer')
      * *Map function using list and input funciton*
      * *Reversed function*    
      * *split function*
+     * *round function*
      
          
 9. *Python generator:-*
@@ -231,7 +232,10 @@ print('trying to convert from pythonista to pythoneer')
       * *quartiles()*
       * *pstdev()*
       * *stdev()*
-      * **
+      * *pvariance()*
+      * *variance()*
+      
+      
            
               
               
