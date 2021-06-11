@@ -17,6 +17,15 @@ print('trying to convert from pythonista to pythoneer')
       * *Keywords*
       * *Identifiers*
       * *Literals*
-           * 
+           * *-String literals*
+           * *-Numeric literals*
+           * *-Boolean literals*
+           * *-Special literals*
+      * *Operators*
+           * *-Assignment operator*     
+           * *-Arithmetic operator*
+           * *-Comparision operator*
+           * *-Logical operator*
+           * *-Bitwise operator*
 
 
