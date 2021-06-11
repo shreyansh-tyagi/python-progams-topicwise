@@ -27,5 +27,8 @@ print('trying to convert from pythonista to pythoneer')
            * *-Comparision operator*
            * *-Logical operator*
            * *-Bitwise operator*
+           * *-Identity operator*
+           * *-Membership operator*
+           
 
 
