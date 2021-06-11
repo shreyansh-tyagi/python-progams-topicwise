@@ -125,6 +125,7 @@ print('trying to convert from pythonista to pythoneer')
      * *ord function*
      * *capitalize function*
      * *Map function using list and input funciton*
+     * *Reversed function*    
          
 9. *Python generator:-*
      * *Yield in generator*
