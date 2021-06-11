@@ -35,6 +35,7 @@ print('trying to convert from pythonista to pythoneer')
            * *Bitwise operator*
            * *Identity operator*
            * *Membership operator*
+           * *Ternary operator*
       
 6. *Python datatypes:-*
       * *Immutables datatypes:-*
@@ -149,7 +150,28 @@ print('trying to convert from pythonista to pythoneer')
       * *pow*
       * *Math.trunc*
             
-     
+11. *Taking multiple input from user:-*
+      * *Using split method*
+      * *Using list comprehension*
+      
+12. *Operator library:-*
+      * *Add()*
+      * *Sub()*
+      * *Mul()*
+      * *Truediv()*
+      * *Floordiv()*
+      * *Pow()*
+      * *Mod()*
+      * *lt()*
+      * *le()*
+      * *eq()*
+      * *gt()*
+      * *ge()*
+      * *ne()*
+      
+      
+      
+           
               
               
      
