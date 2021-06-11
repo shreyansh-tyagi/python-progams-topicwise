@@ -108,6 +108,7 @@ print('trying to convert from pythonista to pythoneer')
      * *Swapcase function*
      * *length function*
      * *Pop function*       
+     * *Global and local variable in python function*
            
          
 6. *Python generator:-*
