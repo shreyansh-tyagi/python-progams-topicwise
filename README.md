@@ -182,8 +182,13 @@ print('trying to convert from pythonista to pythoneer')
       * *invert()*
       
 13. *Python arrays:-*
-           
-      
+      * *creating array*
+      * *insertion into array*
+      * *insert of more than one element*
+      * *removing from array*
+      * *slicing of array*
+      * *searching from arary*
+      * *updatig array*
       
       
       
