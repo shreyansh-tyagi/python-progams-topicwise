@@ -86,6 +86,7 @@ print('trying to convert from pythonista to pythoneer')
                * *Clear*
                * *Add*
                * *Length*
+               
               
            * *Dictoinaries and its operation:-*
                * *Empty dictionary*
@@ -141,7 +142,13 @@ print('trying to convert from pythonista to pythoneer')
      * *Generator object*
      * *Generator function*
 
-10. **      
+10. *Python random and maths library:-*
+      * *Random.choice*
+      * *Random.randint*
+      * *Math.sqrt*
+      * *pow*
+      * *Math.trunc*
+            
      
               
               
