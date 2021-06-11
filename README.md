@@ -189,7 +189,11 @@ print('trying to convert from pythonista to pythoneer')
       * *slicing of array*
       * *searching from arary*
       * *updatig array*
-      
+
+14. *first claas function in python:-*
+      * *function are objects*
+      * *function can be passed as argument to other function*
+      * *function can return another function*      
       
       
            
