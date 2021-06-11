@@ -34,7 +34,11 @@ print('trying to convert from pythonista to pythoneer')
       * *Immutables datatypes*
             * *Number*
             * *Strings*
-      * *Mutable datatypes*            
+            * *Tuples*        
+      * *Mutable datatypes*  
+            * *Lists*
+            * *Sets*
+            * *Dictoinaries*         
            
 
 
