@@ -199,6 +199,23 @@ print('trying to convert from pythonista to pythoneer')
            * *count(start,step)*
            * *cycle(itertools)*
            * *repeat(val,name)*       
+      * *Combinatoric itertools:-*
+          * *Product()*
+          * *Permutations()*
+          * *Combinations()*
+          * *Combination_with_replacement()* 
+      * *Terminating itertools:-*
+          * *accuulate(iter,func)*
+          * *chain(iter1,iter2...)*
+          * *chain.from_iterable()*
+          * *compress(iter,selector)*
+          * *dropwhile(func,seq)*
+          * *filterfalse(func,seq)*
+          * *islice(iterable,start,stop,step)*
+          * *starmap(func,tuple list)*
+          * *takewhile(func,iterable)*
+          * *tee(iterable,count)*
+          * *zip_longest(iterable1,iterable2,fillval)*      
       
       
            
