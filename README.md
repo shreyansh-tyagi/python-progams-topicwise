@@ -62,7 +62,11 @@ print('trying to convert from pythonista to pythoneer')
                * *Extend*
                * *Insert*
            * *Sets and its operation:-*
-               * **
+               * *Creating sets*
+               * *Union sets*
+               * *Intersection sets*
+               * *Differences*
+               
               
            * *Dictoinaries and its operation:-*
                * *Empty dictionary*
@@ -73,6 +77,43 @@ print('trying to convert from pythonista to pythoneer')
                * *Length*          
                * *key*
                * *Value*
-           
+
+4. Pytho               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
 
 
