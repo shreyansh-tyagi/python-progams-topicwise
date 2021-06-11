@@ -84,7 +84,14 @@ print('trying to convert from pythonista to pythoneer')
      * *For loop*
      * *While loop*
      * *Break*
-     * *Comtinue*
+     * *Continue*
+     * *Range function*
+     * *Else in for loop*
+     * *Nested loops* 
+     * *Pass statement*
+     * *Input function*
+     * *End and seprate parameter in print function*
+     
                     
                
                
