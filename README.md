@@ -123,7 +123,8 @@ print('trying to convert from pythonista to pythoneer')
      * *Global and local variable in python function:-*
          * *Global keywords*           
      * *ord function*
-     * **
+     * *capitalize function*
+     * *Map function using list and input funciton*
          
 9. *Python generator:-*
      * *Yield in generator*
