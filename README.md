@@ -9,19 +9,19 @@ print('trying to convert from pythonista to pythoneer')
 
 ### _Topics:-_
 
-1. *Python Varibales*
+1. *Python Varibales:-*
       * *Assigning value*
       * *Multiple assignment value*
       
-2. *Python tokens*
+2. *Python tokens:-*
       * *Keywords*
       * *Identifiers*
-      * *Literals*
+      * *Literals:-*
            * *String literals*
            * *Numeric literals*
            * *Boolean literals*
            * *Special literals*
-      * *Operators*
+      * *Operators:-*
            * *Assignment operator*     
            * *Arithmetic operator*
            * *Comparision operator*
@@ -30,14 +30,14 @@ print('trying to convert from pythonista to pythoneer')
            * *Identity operator*
            * *Membership operator*
       
-3. *Python datatypes*
-      * *Immutables datatypes*
-           * *Number and its operation*
+3. *Python datatypes:-*
+      * *Immutables datatypes:-*
+           * *Number and its operation:-*
                * *Int*
                * *Long*
                * *Float*
                * *Complex*
-           * *Strings and its operation*
+           * *Strings and its operation:-*
                * *Find()*
                * *Replace()*
                * *Split()*
