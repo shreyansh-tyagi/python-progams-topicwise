@@ -10,12 +10,13 @@ print('trying to convert from pythonista to pythoneer')
 ### _Topics:-_
 
 1. *Python Varibales*
-      * *Assigning value
-      * Multiple assignment value
+      * *Assigning value*
+      * *Multiple assignment value*
       
 2. *Python tokens*
-      * Keywords
-      * I
-
+      * *Keywords*
+      * *Identifiers*
+      * *Literals*
+           * 
 
 
