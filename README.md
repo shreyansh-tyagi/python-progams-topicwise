@@ -52,6 +52,8 @@ print('trying to convert from pythonista to pythoneer')
                * *Upper()*
                * *Lower()*
                * *Max()/Min()*
+               * *Joins*
+               * *strip()*
                 
            * *Tuples:-*
                * *Concatenation*
@@ -79,6 +81,11 @@ print('trying to convert from pythonista to pythoneer')
                * *Union sets*
                * *Intersection sets*
                * *Differences* 
+               * *Discards*
+               * *Remove*
+               * *Clear*
+               * *Add*
+               * *Length*
               
            * *Dictoinaries and its operation:-*
                * *Empty dictionary*
@@ -126,6 +133,8 @@ print('trying to convert from pythonista to pythoneer')
      * *capitalize function*
      * *Map function using list and input funciton*
      * *Reversed function*    
+     * *split function*
+     
          
 9. *Python generator:-*
      * *Yield in generator*
