@@ -54,12 +54,12 @@ print('trying to convert from pythonista to pythoneer')
                     
       * *Mutable datatypes:-*  
            * *Lists and its operation:-*
-                *Concatenation*
-               *Repeatation*
-               *Remove*
-               *Slicing*
-               *Append*
-               *Extend*
+              * *Concatenation*
+              * *Repeatation*
+              * *Remove*
+              * *Slicing*
+              * *Append*
+              * *Extend*
            * *Sets*
            * *Dictoinaries*         
            
