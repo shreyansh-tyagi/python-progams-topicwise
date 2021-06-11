@@ -45,9 +45,12 @@ print('trying to convert from pythonista to pythoneer')
                * *Upper()*
                * *Lower()*
                * *Max()/Min()*
-               
-               
-           * *Tuples*        
+                
+           * *Tuples:-*
+               * *Concatenation*
+               * *Repetation*
+               * *Indexing*
+               * *Slicing*        
       * *Mutable datatypes*  
            * *Lists*
            * *Sets*
