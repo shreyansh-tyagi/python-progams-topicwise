@@ -168,6 +168,22 @@ print('trying to convert from pythonista to pythoneer')
       * *gt()*
       * *ge()*
       * *ne()*
+      * *setitem()*
+      * *delitem()*
+      * *getitem()*
+      * *setitem(object,slice(a,b),vals)*
+      * *delitem(object,slice(a,b),vals)*
+      * *getitem(object,slice(a,b))*
+      * *concat(ob1,ob2)*
+      * *concat(ob1,ob2)*
+      * *and_*
+      * *or_*
+      * *xor_* 
+      * *invert()*
+      
+13. *Python arrays:-*
+           
+      
       
       
       
