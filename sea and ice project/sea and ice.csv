@@ -1,4 +1,4 @@
-Year, Month, Day,Extent,    Missing, Source Data
+Year,Month,Day,Extent,    Missing, Source Data
 1978,10,26,10.231,0, ['/ecs/DP1/PM/NSIDC-0051.001/1978.10.26/nt_19781026_n07_v1.1_n.bin']
 1978,10,28,10.42,0, ['/ecs/DP1/PM/NSIDC-0051.001/1978.10.28/nt_19781028_n07_v1.1_n.bin']
 1978,10,30,10.557,0, ['/ecs/DP1/PM/NSIDC-0051.001/1978.10.30/nt_19781030_n07_v1.1_n.bin']
